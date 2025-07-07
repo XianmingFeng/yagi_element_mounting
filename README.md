@@ -1,6 +1,8 @@
 # Yagi Antenna Element Mounting Clip  
 Parametric OpenSCAD clip for securing antenna elements to a boom tube
 
+**[中文说明](README_CN.md)**
+
 ![Generated Render](render.png)  
 
 ## Features
